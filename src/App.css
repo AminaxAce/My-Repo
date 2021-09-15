@@ -1,0 +1,23 @@
+.kan
+{
+  text-align: center;
+  background-color: blueviolet;
+  border: 4px solid yellow;
+
+}
+.myPic
+{
+  width:100%;
+}
+p
+{
+  font-family: 'Roboto', sans-serif;
+}
+
+@media(max-width:500px)
+{
+  .myPic
+  {
+    width:50%;
+  }
+}
